@@ -1,0 +1,25 @@
+{
+  "name": "estudos-node",
+  "version": "1.0.0",
+  "description": "Apenas um repositório para aprofundar os conhecimentos em node.js",
+  "homepage": "https://github.com/ArielJahn/estudos-node#readme",
+  "bugs": {
+    "url": "https://github.com/ArielJahn/estudos-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielJahn/estudos-node.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "next dev"
+  },
+  "dependencies": {
+    "next": "^16.0.3",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
